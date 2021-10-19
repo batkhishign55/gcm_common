@@ -9,7 +9,7 @@ setup(
     author='Batkhishig Dulamsurankhor',
     author_email='batkhishign55@gmail.com',
     url='https://github.com/batkhishign55/gcm_common',
-    download_url='',
+    download_url='https://github.com/batkhishign55/gcm_common/archive/refs/tags/v_0.1.tar.gz',
     keywords=['gcm', 'common'],
     install_requires=[
         'flask',
