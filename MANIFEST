@@ -3,5 +3,7 @@ setup.cfg
 setup.py
 gcm_common\__init__.py
 gcm_common\exception.py
+gcm_common\logger.py
+gcm_common\mplog.py
 gcm_common\response.py
 gcm_common\updater.py
