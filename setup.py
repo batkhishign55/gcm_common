@@ -8,8 +8,8 @@ setup(
     description='GCM common package',
     author='Batkhishig Dulamsurankhor',
     author_email='batkhishign55@gmail.com',
-    url='https://github.com/joelbarmettlerUZH/Scrapeasy',
-    download_url='https://github.com/joelbarmettlerUZH/Scrapeasy/archive/pypi-0_1_3.tar.gz',
+    url='https://github.com/batkhishign55/gcm_common',
+    download_url='',
     keywords=['gcm', 'common'],
     install_requires=[
         'flask',
