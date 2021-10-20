@@ -7,8 +7,7 @@ import yaml
 fileLogger = logging.getLogger("fileLogger")
 
 
-def init_logger():
-    conf_file = 'logging.yaml'
+def init_logger(conf_file):
     if os.path.exists(conf_file):
         with open(conf_file, 'r') as f:
             config = yaml.safe_load(f.read())

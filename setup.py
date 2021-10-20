@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
     name='gcm_common',
     packages=['gcm_common'],
-    version='0.1.4',
+    version='0.1.5',
     license='MIT',
     description='GCM common package',
     author='Batkhishig Dulamsurankhor',
     author_email='batkhishign55@gmail.com',
     url='https://github.com/batkhishign55/gcm_common',
-    download_url='https://github.com/batkhishign55/gcm_common/archive/refs/tags/v_0.1.4.tar.gz',
+    download_url='https://github.com/batkhishign55/gcm_common/archive/refs/tags/v_0.1.5.tar.gz',
     keywords=['gcm', 'common'],
     install_requires=[
         'flask',
